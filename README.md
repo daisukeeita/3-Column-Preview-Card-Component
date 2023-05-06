@@ -128,3 +128,7 @@ I also used same classnames to different contents that have the same appearance,
     color: var(--neutral-color-0);
 }
 ```
+
+## Author
+
+- Frontend Mentor - [@daisukeeita](https://www.frontendmentor.io/profile/daisukeeita)
